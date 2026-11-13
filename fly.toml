@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for kiwi-6vzoog on 2026-11-13T13:39:59Z
+# fly.toml app configuration file generated for kiwi-fdnwug on 2026-11-13T14:11:54Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'kiwi-6vzoog'
+app = 'kiwi-fdnwug'
 primary_region = 'fra'
 
 [build]
